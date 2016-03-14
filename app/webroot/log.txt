@@ -1,0 +1,89 @@
+
+2015-02-10 17:58:36 PM
+ Called from api :- /invitationcard.json
+ Array
+(
+    [u_id] => 1
+)
+
+2015-02-10 17:59:22 PM
+ Called from api :- /invitationcard.json
+ Array
+(
+    [u_id] => 1
+)
+
+ Array
+(
+    [inviteCardImage] => Array
+        (
+            [name] => html-project.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/php7OgLp0
+            [error] => 0
+            [size] => 203577
+        )
+
+)
+
+2015-02-10 18:00:09 PM
+ Called from api :- /invitationcard.json
+ Array
+(
+    [inviteCardImage] => <UIImage: 0x14e0ad80> size {2448, 3264} orientation 3 scale 1.000000
+    [u_id] => 1
+)
+
+2015-02-10 18:00:13 PM
+ Called from api :- /invitationcard.json
+ Array
+(
+    [inviteCardImage] => <UIImage: 0x14e0ad80> size {2448, 3264} orientation 3 scale 1.000000
+    [u_id] => 1
+)
+
+2015-02-10 18:16:15 PM
+ Called from api :- /invitationcard.json
+ Array
+(
+    [inviteCardImage] => <UIImage: 0x14618840> size {2448, 3264} orientation 3 scale 1.000000
+    [u_id] => 1
+)
+
+2015-02-10 07:43:55 AM
+ Called from api :- /
+ Array
+(
+)
+
+2015-02-10 07:43:56 AM
+ Called from api :- /robots.txt
+ Array
+(
+)
+
+2015-02-10 07:44:10 AM
+ Called from api :- /
+ Array
+(
+)
+
+2015-02-10 19:19:05 PM
+ Called from api :- /invitationcard.json
+ Array
+(
+    [u_id] => 1
+)
+
+ Array
+(
+    [inviteCardImage] => Array
+        (
+            [name] => userImage.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpTjFWax
+            [error] => 0
+            [size] => 197571
+        )
+
+)
