@@ -66,21 +66,9 @@
           }
 
           function removeMarkers(){
-    for(i=0; i<gmarkers.length; i++){
-        gmarkers[i].setMap(null);
-    }
-}
-
-          function clearMap(){
-            console.log(markers);
-            for (i = 0; i < markers.length; i++) {  
-                    marker = new google.maps.Marker({
-                        position: new google.maps.LatLng(markers[i][1], markers[i][2]),
-                        map: map
-                    });
-                    marker.setMap(null);
-                    
-                }
+              for(i=0; i<gmarkers.length; i++){
+                  gmarkers[i].setMap(null);
+              }
           }
 
           function initialize() {
